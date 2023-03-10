@@ -27,4 +27,4 @@
     - ![image](https://user-images.githubusercontent.com/59658937/224247111-21bc1332-e916-45f9-807a-aadac11e4c6d.png)
 
 -   <b>Control packages </b>
-- Then using SQL Server Agent to create jobs running packages scheduled.
+- Then using SQL Server Agent to create jobs running Control packages scheduled.
