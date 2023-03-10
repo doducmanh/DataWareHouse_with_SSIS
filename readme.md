@@ -5,6 +5,7 @@
 - SSMS
 - Data Source: AdventureWorksOLTP2014.bak
 - Visual Studio Data tools: SSIS, SSAS
+- SQL Server Agent
 
 <b>Description:</b>
 
@@ -21,5 +22,9 @@
     - ![image](https://user-images.githubusercontent.com/59658937/224244497-43c6099c-ade5-48f5-bb85-cd433531b4da.png)
 
 -   <b>ETL load Staging to DW: </b>
--   <b>Control packages </b>
+    - ![image](https://user-images.githubusercontent.com/59658937/224246794-b8a25267-595e-4232-a0fa-929f4d3f6958.png)
+    - ![image](https://user-images.githubusercontent.com/59658937/224247024-fa78af6a-c9b4-40f3-9f39-db82eedc0523.png)
+    - ![image](https://user-images.githubusercontent.com/59658937/224247111-21bc1332-e916-45f9-807a-aadac11e4c6d.png)
 
+-   <b>Control packages </b>
+- Then using SQL Server Agent to create jobs running packages scheduled.
